@@ -5,3 +5,7 @@ So there
 
 This is the new stuff that has been added.
 This line tooooo.
+
+This is the third edit of the text.
+
+This is the forth line
